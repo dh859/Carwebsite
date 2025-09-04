@@ -1,0 +1,10 @@
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class HomeController {
+    @GetMapping(value = { "/", "/home", "/about", "/contact" }) // Add your routes here
+    public String index() {
+        return "index"; // This will resolve to src/main/resources/static/index.html
+    }
+}

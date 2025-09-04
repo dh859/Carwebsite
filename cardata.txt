@@ -1,0 +1,22 @@
+
+Category	Model	        Engine	    Dimensions (LxWxH)	Top Speed (km/h)	Weight (kg)	Mileage (km/l)	Fuel Type	Year	Price (INR)
+Sedan	        Model S1	2.0L I4	    4.7m x 1.8m x 1.4m	220	1450	18	Petrol	2024	12,50,000
+SUV	        Model X1	2.5L V6     4.9m x 2.0m x 1.7m	200	1800	14	Diesel	2024	20,00,000
+Hatchback	Model H1	1.2L I4	    3.8m x 1.7m x 1.5m	160	1100	22	Petrol	2024	7,00,000
+Coupe	        Model C1	3.0L V6	    4.6m x 1.9m x 1.3m	250	1400	15	Petrol	2024	25,00,000
+Convertible	Model CV1	2.2L I4	    4.4m x 1.8m x 1.4m	230	1350	17	Petrol	2024	22,00,000
+Pickup	        Model P1	3.5L V8	    5.3m x 2.1m x 1.8m	190	2000	10	Diesel	2024	15,50,000
+Minivan  	Model MV1	2.4L I4	    4.8m x 1.9m x 1.7m	180	1650	12	Petrol	2024	14,00,000
+Electric SUV	Model E1	150kW Motor	4.7m x 1.9m x 1.7m	210	1700	0	Electric	2024	30,00,000
+Sports Car	Model SC1	4.0L V8	4.5m x 2.0m x 1.2m	300	1400	8	Petrol	2024	50,00,000
+Compact SUV	Model CS1	1.5L I4	4.3m x 1.8m x 1.6m	190	1500	16	Diesel	2024	12,00,000
+Luxury Sedan	Model LS1	3.5L V6	5.0m x 1.9m x 1.4m	240	1600	13	Petrol	2024	35,00,000
+Compact Sedan	Model CS2	1.6L I4	4.5m x 1.7m x 1.4m	180	1300	20	Petrol	2024	10,00,000
+Off-Roader	Model OR1	2.8L I4	4.8m x 1.9m x 1.8m	170	1900	11	Diesel	2024	16,00,000
+Hybrid Sedan	Model HS1	1.8L I4+Motor	4.6m x 1.8m x 1.4m	200	1500	25	Hybrid	2024	18,00,000
+Electric Car	Model EC1	100kW Motor	4.2m x 1.8m x 1.5m	180	1200	0	Electric	2024	25,00,000
+Roadster	Model R1	2.5L I4	4.4m x 1.8m x 1.3m	240	1300	18	Petrol	2024	28,00,000
+Luxury SUV	Model LX1	4.0L V8	5.2m x 2.0m x 1.8m	220	2100	9	Diesel	2024	40,00,000
+Crossover	Model CR1	1.5L I4	4.4m x 1.8m x 1.6m	180	1450	19	Petrol	2024	13,50,000
+Performance Car	Model PC1	5.0L V10	4.7m x 2.0m x 1.2m	320	1500	7	Petrol	2024	55,00,000
+Family Wagon	Model FW1	2.0L I4	4.9m x 1.8m x 1.6m	170	1600	15	Diesel	2024	17,00,000

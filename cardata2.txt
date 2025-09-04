@@ -1,0 +1,39 @@
+Category: Sedan, Model: Model S1, Engine: 2.0L I4, Dimensions: 4.7m x 1.8m x 1.4m, Top Speed: 220 km/h, Weight: 1450 kg, Mileage: 18 km/l, Fuel Type: Petrol, Year: 2024, Price: 12,50,000 INR
+
+Category: SUV, Model: Model X1, Engine: 2.5L V6, Dimensions: 4.9m x 2.0m x 1.7m, Top Speed: 200 km/h, Weight: 1800 kg, Mileage: 14 km/l, Fuel Type: Diesel, Year: 2024, Price: 20,00,000 INR
+
+Category: Hatchback, Model: Model H1, Engine: 1.2L I4, Dimensions: 3.8m x 1.7m x 1.5m, Top Speed: 160 km/h, Weight: 1100 kg, Mileage: 22 km/l, Fuel Type: Petrol, Year: 2024, Price: 7,00,000 INR
+
+Category: Coupe, Model: Model C1, Engine: 3.0L V6, Dimensions: 4.6m x 1.9m x 1.3m, Top Speed: 250 km/h, Weight: 1400 kg, Mileage: 15 km/l, Fuel Type: Petrol, Year: 2024, Price: 25,00,000 INR
+
+Category: Convertible, Model: Model CV1, Engine: 2.2L I4, Dimensions: 4.4m x 1.8m x 1.4m, Top Speed: 230 km/h, Weight: 1350 kg, Mileage: 17 km/l, Fuel Type: Petrol, Year: 2024, Price: 22,00,000 INR
+
+Category: Pickup, Model: Model P1, Engine: 3.5L V8, Dimensions: 5.3m x 2.1m x 1.8m, Top Speed: 190 km/h, Weight: 2000 kg, Mileage: 10 km/l, Fuel Type: Diesel, Year: 2024, Price: 15,50,000 INR
+
+Category: Minivan, Model: Model MV1, Engine: 2.4L I4, Dimensions: 4.8m x 1.9m x 1.7m, Top Speed: 180 km/h, Weight: 1650 kg, Mileage: 12 km/l, Fuel Type: Petrol, Year: 2024, Price: 14,00,000 INR
+
+Category: Electric SUV, Model: Model E1, Engine: 150kW Motor, Dimensions: 4.7m x 1.9m x 1.7m, Top Speed: 210 km/h, Weight: 1700 kg, Mileage: 0 km/l, Fuel Type: Electric, Year: 2024, Price: 30,00,000 INR
+
+Category: Sports Car, Model: Model SC1, Engine: 4.0L V8, Dimensions: 4.5m x 2.0m x 1.2m, Top Speed: 300 km/h, Weight: 1400 kg, Mileage: 8 km/l, Fuel Type: Petrol, Year: 2024, Price: 50,00,000 INR
+
+Category: Compact SUV, Model: Model CS1, Engine: 1.5L I4, Dimensions: 4.3m x 1.8m x 1.6m, Top Speed: 190 km/h, Weight: 1500 kg, Mileage: 16 km/l, Fuel Type: Diesel, Year: 2024, Price: 12,00,000 INR
+
+Category: Luxury Sedan, Model: Model LS1, Engine: 3.5L V6, Dimensions: 5.0m x 1.9m x 1.4m, Top Speed: 240 km/h, Weight: 1600 kg, Mileage: 13 km/l, Fuel Type: Petrol, Year: 2024, Price: 35,00,000 INR
+
+Category: Compact Sedan, Model: Model CS2, Engine: 1.6L I4, Dimensions: 4.5m x 1.7m x 1.4m, Top Speed: 180 km/h, Weight: 1300 kg, Mileage: 20 km/l, Fuel Type: Petrol, Year: 2024, Price: 10,00,000 INR
+
+Category: Off-Roader, Model: Model OR1, Engine: 2.8L I4, Dimensions: 4.8m x 1.9m x 1.8m, Top Speed: 170 km/h, Weight: 1900 kg, Mileage: 11 km/l, Fuel Type: Diesel, Year: 2024, Price: 16,00,000 INR
+
+Category: Hybrid Sedan, Model: Model HS1, Engine: 1.8L I4+Motor, Dimensions: 4.6m x 1.8m x 1.4m, Top Speed: 200 km/h, Weight: 1500 kg, Mileage: 25 km/l, Fuel Type: Hybrid, Year: 2024, Price: 18,00,000 INR
+
+Category: Electric Car, Model: Model EC1, Engine: 100kW Motor, Dimensions: 4.2m x 1.8m x 1.5m, Top Speed: 180 km/h, Weight: 1200 kg, Mileage: 0 km/l, Fuel Type: Electric, Year: 2024, Price: 25,00,000 INR
+
+Category: Roadster, Model: Model R1, Engine: 2.5L I4, Dimensions: 4.4m x 1.8m x 1.3m, Top Speed: 240 km/h, Weight: 1300 kg, Mileage: 18 km/l, Fuel Type: Petrol, Year: 2024, Price: 28,00,000 INR
+
+Category: Luxury SUV, Model: Model LX1, Engine: 4.0L V8, Dimensions: 5.2m x 2.0m x 1.8m, Top Speed: 220 km/h, Weight: 2100 kg, Mileage: 9 km/l, Fuel Type: Diesel, Year: 2024, Price: 40,00,000 INR
+
+Category: Crossover, Model: Model CR1, Engine: 1.5L I4, Dimensions: 4.4m x 1.8m x 1.6m, Top Speed: 180 km/h, Weight: 1450 kg, Mileage: 19 km/l, Fuel Type: Petrol, Year: 2024, Price: 13,50,000 INR
+
+Category: Performance Car, Model: Model PC1, Engine: 5.0L V10, Dimensions: 4.7m x 2.0m x 1.2m, Top Speed: 320 km/h, Weight: 1500 kg, Mileage: 7 km/l, Fuel Type: Petrol, Year: 2024, Price: 55,00,000 INR
+
+Category: Family Wagon, Model: Model FW1, Engine: 2.0L I4, Dimensions: 4.9m x 1.8m x 1.6m, Top Speed: 170 km/h, Weight: 1600 kg, Mileage: 15 km/l, Fuel Type: Diesel, Year: 2024, Price: 17,00,000 INR
